@@ -9,8 +9,6 @@
 
 ![Credit card form](https://res.cloudinary.com/dgm9zfiuo/image/upload/v1698856402/Portfolio%20projects/view_3_s2eiuf.png)
 
-## Project summary
-
 ### Technologies used
 * HTML
 * CSS
